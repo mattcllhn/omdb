@@ -1,0 +1,9 @@
+nav{
+  display: inline;
+  float:right;
+  margin: 25px;
+  padding:10px;
+}
+.page-header{
+  background-color:  #e6f7ff;
+}
